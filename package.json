@@ -8,6 +8,8 @@
   "author": "Geoffrey Hayes <hayesgm@gmail.com>",
   "license": "MIT",
   "scripts": {
+    "build": "tsc",
+    "prepare": "tsc",
     "test": "script/test.sh"
   },
   "devDependencies": {
